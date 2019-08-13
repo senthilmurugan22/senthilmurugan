@@ -5,7 +5,7 @@ int main()
     int a;
     cin>>a;
     if(a>0)
-        cout<<"Passitive";
+        cout<<"Positive";
     else if(a<0)
         cout<<"Negative";
     else
